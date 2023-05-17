@@ -28,5 +28,5 @@ const _messages = <MessageBubble>[
   MessageBubble(message: "How are you?",
       date: "May 17, 6:38 PM"),
   MessageBubble(message: " I am Fine",
-      date: "May 17, 6:45 PM")
+      date: "May 17, 6:50 PM")
 ];
