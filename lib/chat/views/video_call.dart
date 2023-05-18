@@ -12,9 +12,9 @@ class _VideoCallState extends State<VideoCall> {
   final AgoraClient _client = AgoraClient(
     agoraConnectionData: AgoraConnectionData(
         appId: 'e2e2e2faab5d47bea5e6cafcc35ac40d',
-        channelName: 'fluttering',
-        tempToken:
-            '007eJxTYFAumO/I8lTI8VPOjo83v7ze9SS1T/jkmhZRNu6YO5e/b1mhwJBqBIJpiYlJpikm5kmpiaapZsmJacnJxqaJySYGKZP0U1MaAhkZONIUGBkZIBDE52JIyyktKUktysxLZ2AAANouJA4='),
+        channelName: 'Flutter',
+        tempToken: '007eJxTYNjVu3vP9JntrY280um3Vx63V706c9uEz5//Hrv8q++e5o9UBYZUIxBMS0xMMk0xMU9KTTRNNUtOTEtONjZNTDYxSLlYnJbSEMjIcOlVJQsjAwSC+OwMbjmlJSWpRQwMAGgVJyE='
+            ),
   );
   @override
   void initState() {
