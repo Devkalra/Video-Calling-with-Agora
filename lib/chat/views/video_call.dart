@@ -36,7 +36,7 @@ class _VideoCallState extends State<VideoCall> {
         ),
         body: SafeArea(
           child: Stack(
-            children: const [
+            children: [
               AgoraVideoViewer(
                 client: _client,
                 layoutType: Layout.floating,
@@ -44,7 +44,7 @@ class _VideoCallState extends State<VideoCall> {
               ),
               AgoraVideoButtons(
                 client: _client,
-                enabledButtons: [
+                enabledButtons: const [
                   BuiltInButtons.toggleCamera,
                   BuiltInButtons.callEnd,
                   BuiltInButtons.toggleMic
