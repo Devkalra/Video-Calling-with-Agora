@@ -37,8 +37,5 @@ class ChatScreen extends StatelessWidget {
 }
 
 const _messages = <MessageBubble>[
-  MessageBubble(message: "Hello Sam", date: "May 17, 6:32 PM"),
-  MessageBubble(message: "Hey Roger", date: "May 17, 6:34 PM"),
-  MessageBubble(message: "How are you?", date: "May 17, 6:38 PM"),
-  MessageBubble(message: " I am Fine", date: "May 17, 6:50 PM")
+  MessageBubble(message: "Hello Sam Lets call", date: "May 17, 6:32 PM"),
 ];
