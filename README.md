@@ -1,16 +1,8 @@
-# video_calling_with_agora
+# Video_calling_with_agora
 
-A new Flutter project.
+Its an Simple Application which is using Agora SDK.
+Agora is the leading video, voice and live interactive streaming platform which we can integrate in our apps and use it tp interact with others.
 
-## Getting Started
+Shoutout to Agora : https://www.agora.io/en/
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Thank you for checking it out :)
